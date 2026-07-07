@@ -21,7 +21,7 @@
 
 I'm a Computer Engineering and Economics student at Northwestern University who enjoys building projects that combine software with real-world engineering problems.
 
-Most of my projects revolve around robotics, software automation, embedded systems, and machine learning. I'm especially interested in the software behind modern vehicles—how it's designed, tested, and validated before reaching customers.
+Most of my projects revolve around robotics, software automation, embedded systems, and machine learning. I'm especially interested in the software behind modern vehicles: how it's designed, tested, and validated before reaching customers.
 
 Outside of academics, I'm involved with Northwestern Formula Racing, enjoy playing volleyball, and spend a lot of my free time working on personal engineering projects.
 
