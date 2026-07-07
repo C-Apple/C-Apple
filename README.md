@@ -23,7 +23,7 @@ I'm a Computer Engineering and Economics student at Northwestern University who 
 
 Most of my projects revolve around robotics, software automation, embedded systems, and machine learning. I'm especially interested in the software behind modern vehicles: how it's designed, tested, and validated before reaching customers.
 
-Outside of academics, I'm a Machinist's Assistant at Northwestern's Research Shop (I love machining things and woodworking!), Northwestern Formula Racing, enjoy playing volleyball and going to the gym, and spend a lot of my free time working on personal engineering projects.
+Outside of academics, I'm a Machinist's Assistant at Northwestern's Research Shop (I love machining things and woodworking!). I also participate in Northwestern Formula Racing, enjoy playing volleyball and going to the gym, and spend a lot of my free time working on personal engineering projects!
 
 ---
 
