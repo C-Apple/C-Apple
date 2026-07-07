@@ -30,7 +30,7 @@ Outside of academics, I'm involved with Northwestern Formula Racing, enjoy playi
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,fastapi,githubactions,git,github,linux,raspberrypi,matlab,html,css,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,git,github,linux,matlab,html,css,figma,raspberrypi,unity" />
 </p>
 
 I'm always looking for opportunities to learn new tools and technologies, so this list is constantly growing.
