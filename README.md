@@ -40,16 +40,16 @@ I'm always looking for opportunities to learn new tools and technologies, so thi
 ## Featured Projects
 
 🚗 **Vehicle Validation Framework**  
-A Python-based framework for validating simulated automotive software through automated testing, structured logging, and test reporting.
-🔗 **Repository:** [https://github.com/yourusername/vehicle-validation-framework](https://github.com/C-Apple/Vehicle-Validation-Framework)
+A Python-based framework for validating simulated automotive software through automated testing, structured logging, and test reporting.  
+🔗 [**Repository**](https://github.com/C-Apple/Vehicle-Validation-Framework)
 
 🤖 **Wikipedia SpeedRun Algorithm**  
-A machine learning approach to solving Wikipedia Speedruns using custom-trained word embeddings built with PyTorch.
-🔗 **Repository:** [https://github.com/yourusername/vehicle-validation-framework](https://github.com/C-Apple/Wikipedia-SpeedRun-Algorithm)
+A machine learning approach to solving Wikipedia Speedruns using custom-trained word embeddings built with PyTorch.  
+🔗 [**Repository**](https://github.com/C-Apple/Wikipedia-SpeedRun-Algorithm)
 
 🕷️ **Hexapod Robot Controller**  
-A Raspberry Pi-based six-legged robot featuring inverse kinematics, PWM servo control, and I²C communication.
-🔗 **Repository:** [https://github.com/yourusername/vehicle-validation-framework](https://github.com/C-Apple/Hexapod-Robot-Controller)
+A Raspberry Pi-based six-legged robot featuring inverse kinematics, PWM servo control, and I²C communication.  
+🔗 [**Repository**](https://github.com/C-Apple/Hexapod-Robot-Controller)
 
 ---
 
