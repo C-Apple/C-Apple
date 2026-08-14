@@ -40,7 +40,7 @@ I'm always looking for opportunities to learn new tools and technologies, so thi
 ## Featured Projects
 
 🗣️ **Rhetoric Engine**
-An AI-powered speech analysis platform that combines fact-checking, vocal and visual delivery analysis, and evidence-grounded coaching to help speakers communicate more effectively.
+An AI-powered speech analysis platform that combines fact-checking, vocal and visual delivery analysis, and coaching to help speakers communicate more effectively.
 🔗 [**Repository**](https://github.com/C-Apple/Rhetoric-Engine)
 
 🚗 **Vehicle Validation Framework**  
